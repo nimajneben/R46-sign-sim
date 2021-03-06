@@ -1,6 +1,6 @@
 # R46-sign-sim
 
-Some old Arduino files from the depths of my old backups.
+Some old Arduino files from the depths of my old backups (November 2018).
 
 This code displays text from elements of an array for three seconds, simulating the side destination signs of the New York City Transit R46 Subway Car.
 
